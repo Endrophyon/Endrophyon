@@ -1,0 +1,3 @@
+# Hello
+
+I'm Endrophyon and I'm Coding on C++, C#, Python, NSIS, Inno Setup, PHP, HTML, CSS and SCSS...
